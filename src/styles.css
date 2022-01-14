@@ -1,8 +1,8 @@
 h1 {font-size: 2.4rem;margin-bottom: 30px;}
 .bg-blue {background-color:#79ce1d;}
 .navbar-brand img { height:30px; }
-.navbar-dark .navbar-nav .nav-link {color:#fff;}
-.navbar-dark .navbar-nav .active .nav-link {color:#fff;}
+.navbar-dark .navbar-nav .nav-link {color:rgb(255, 255, 255);}
+.navbar-dark .navbar-nav .active .nav-link {color:rgb(248, 242, 242);}
 .banner img {width:100%;}
 .title-heading{clear: both; width: 100%;padding: 10px;text-align: center;margin-bottom: 20px;}
 .blog-box {text-align: center; margin-bottom: 20px;padding: 10px;

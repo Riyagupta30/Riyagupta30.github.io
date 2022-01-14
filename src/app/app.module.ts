@@ -29,7 +29,8 @@ import {AccountModule} from './account/account.module';
     ArticlesModule,
     StaticpagesModule,
     AccountModule,
-    AppRoutingModule
+    AppRoutingModule,
+    CommonModule
     
   ],
   

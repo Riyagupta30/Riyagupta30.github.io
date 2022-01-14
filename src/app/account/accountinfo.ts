@@ -1,7 +1,7 @@
 export class Accountinfo {
 
-     Name!: string 
-     Email!:string 
-     Password!:string 
+     Name: string 
+     Email:string 
+     Password:string 
      
 }
